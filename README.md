@@ -1,5 +1,6 @@
-# proposals
-Governance proposals
+# Proposals
+
+This repository contains several miscellaneous governance proposals, [tracked as issues](https://github.com/stacksgov/proposals/issues), and we are still determining the role of this repository relative to the [existing SIP process](https://github.com/blockstack/stacks-blockchain/blob/master/sip/sip-000-stacks-improvement-proposal-process.md).
 
 ## Licensing
 
